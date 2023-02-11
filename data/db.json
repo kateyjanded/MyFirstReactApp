@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Being me",
+      "body": "How to be a president",
+      "author": "Jimmy Carter",
+      "id": 1
+    },
+    {
+      "title": "Happy me",
+      "body": "How to be a president",
+      "author": "Affiong Udokisai",
+      "id": 2
+    },
+    {
+      "title": "Personal statement",
+      "body": "Dear Admissions Committee,\nI am writing to express my interest in pursuing a Master of Science in Computer Science at Aston University. As a driven and enthusiastic individual with a passion for technology and its ability to improve our world, I am eager to continue my education and advance my skills in the field of computer science.\nI have always been fascinated by the potential of technology to solve complex problems and make a positive impact on society. This passion led me to pick up software development as a skill, and contributed as a software developer in Cyphercrescent for four years. Through various projects, I have become proficient in programming languages such as C#, Javascript and Typescript and have a strong grasp of data structures and algorithms.\nAs a software developer, I also had the opportunity to work on a number of real-world projects, including developing a desktop application for oil well modelling for the oil and gas industry. These experiences have further fuelled my interest in computer science and solidified my desire to pursue a career in this field.\nI am confident that a Master of Science in Computer Science at Aston University will provide me with the advanced knowledge and skills I need to achieve my goals. The program's focus on cutting-edge research and innovative technologies aligns perfectly with my interests and career aspirations. Furthermore, I am excited about the prospect of studying at Aston University, which is renowned for its world-class faculty and research facilities.\nI am eager to contribute my enthusiasm and skills to the program and to collaborate with my fellow students and faculty on meaningful projects that will have a positive impact on society. I believe that the program's blend of theoretical knowledge and practical experience, combined with its strong focus on research, will provide me with the foundation I need to succeed in my career and make a meaningful difference in the world.\nThank you for considering my application. I look forward to the opportunity to further discuss my qualifications and passion for computer science with you.\nSincerely,\n[Your Name]\n",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "new stadflsfj",
+      "body": "dfldsjf",
+      "author": "mario",
+      "id": 4
+    }
+  ]
+}
